@@ -1,5 +1,8 @@
 #include <unistd.h>
 #include <string.h>
+/**
+ * main - printer
+ * Return: 1
 
 int main(void)
 {
