@@ -2,7 +2,7 @@
 /**
  * main - main function prints _putchar
  * _putchar : print the alphabets
- * Return : always 0
+ * Return: Always 0
  */
 
 int main(void)
