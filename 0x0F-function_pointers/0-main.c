@@ -33,7 +33,7 @@ void print_name_uppercase(char *name)
 	else
 	{
 	putchar(name[i]);
-	{
+	}
 	i++;
 	}
 }
